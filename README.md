@@ -22,4 +22,4 @@
   <a href = "mailto:victor.rosas.96@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
-  ![Snake animation] (https://github.com/victorrosas)
+  ![Snake animation](https://github.com/victorrosas/victorrosas/blob/output/github-contribution-grid-snake.svg)
